@@ -1,0 +1,46 @@
+body {
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.container {
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+}
+
+.container .row h1 {
+    color: #17a2b8;
+    margin-bottom: 0.5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 2.5rem;
+}
+
+.container .row input {
+    color: white;
+}
+
+.container .row .log {
+    color: #17a2b8;
+    background-color: transparent;
+    border-color: #17a2b8;
+}
+
+.container .row .log:hover {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.container .row span {
+    color: white;
+}
+
+.container .row a {
+    text-decoration: none;
+    color: white;
+}
+
+.container .row a:hover {
+    text-decoration: underline;
+}
